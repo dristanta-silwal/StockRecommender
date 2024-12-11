@@ -1,4 +1,5 @@
-# Stock Explorer and Analysis App
+# [Stock Explorer and Analysis App](https://stockrecommender.streamlit.app/)
+View Live: [Stock Recommender](https://stockrecommender.streamlit.app/)
 
 ## Overview
 The Stock Explorer and Analysis App is a tool built with Python and Streamlit that allows users to explore stock data, generate interactive charts, and perform technical analysis for selected stock tickers. The app integrates with Yahoo Finance to fetch real-time stock data and display key metrics for user-selected timeframes.
